@@ -338,7 +338,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.4950840073748897,
+        "zoomFactor": 1.4307927813134285,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -501,7 +501,12 @@
           "x": 640,
           "y": 320,
           "zOrder": 10,
-          "numberProperties": [],
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 0
+            }
+          ],
           "stringProperties": [],
           "initialVariables": []
         },
@@ -730,6 +735,22 @@
           "x": 32,
           "y": 14,
           "zOrder": 21,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Road",
+          "persistentUuid": "11390198-faa7-48b7-b2e4-a3101983fecf",
+          "width": 0,
+          "x": 640,
+          "y": 320,
+          "zOrder": 22,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1150,13 +1171,13 @@
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
-                        "y": 0
+                        "y": 10
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
                         "x": 0,
-                        "y": 0
+                        "y": 10
                       },
                       "customCollisionMask": [
                         [
@@ -1719,6 +1740,30 @@
               "width": 256
             }
           }
+        },
+        {
+          "assetStoreId": "",
+          "name": "Road",
+          "type": "PrimitiveDrawing::Drawer",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "fillOpacity": 255,
+          "outlineSize": 2,
+          "outlineOpacity": 255,
+          "fillColor": {
+            "b": 255,
+            "g": 255,
+            "r": 255
+          },
+          "outlineColor": {
+            "b": 255,
+            "g": 255,
+            "r": 255
+          },
+          "absoluteCoordinates": true,
+          "clearBetweenFrames": true,
+          "antialiasing": "none"
         }
       ],
       "objectsFolderStructure": {
@@ -1756,6 +1801,9 @@
           },
           {
             "objectName": "Ship"
+          },
+          {
+            "objectName": "Road"
           },
           {
             "objectName": "BtnRun"
@@ -1946,7 +1994,7 @@
                   },
                   "parameters": [
                     "varRun",
-                    "Toggle",
+                    "True",
                     ""
                   ]
                 }
@@ -1986,6 +2034,22 @@
                         "BtnPause",
                         ""
                       ]
+                    },
+                    {
+                      "type": {
+                        "value": "Cache"
+                      },
+                      "parameters": [
+                        "BtnRun"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PanelSpriteButton::PanelSpriteButton::Activate"
+                      },
+                      "parameters": [
+                        "BtnRun"
+                      ]
                     }
                   ]
                 }
@@ -2017,7 +2081,7 @@
                   },
                   "parameters": [
                     "varRun",
-                    "Toggle",
+                    "False",
                     ""
                   ]
                 }
@@ -2052,6 +2116,25 @@
                       },
                       "parameters": [
                         "Ship"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Montre"
+                      },
+                      "parameters": [
+                        "BtnRun",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PanelSpriteButton::PanelSpriteButton::Activate"
+                      },
+                      "parameters": [
+                        "BtnRun",
+                        "yes",
+                        ""
                       ]
                     }
                   ]
@@ -2285,6 +2368,66 @@
           "parameters": []
         },
         {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "Draw line",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Or"
+                  },
+                  "parameters": [],
+                  "subInstructions": [
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::CompareNumbers"
+                      },
+                      "parameters": [
+                        "Ship.StartX",
+                        "!=",
+                        "Ship.X()"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::CompareNumbers"
+                      },
+                      "parameters": [
+                        "Ship.StartY",
+                        "!=",
+                        "Ship.Y()"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PrimitiveDrawing::LineV2"
+                  },
+                  "parameters": [
+                    "Road",
+                    "Ship.StartX",
+                    "Ship.StartY",
+                    "Ship.X()",
+                    "Ship.Y()",
+                    "2"
+                  ]
+                }
+              ]
+            }
+          ],
+          "parameters": []
+        },
+        {
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -2310,11 +2453,6 @@
               ]
             }
           ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": []
         }
       ],
       "layers": [
