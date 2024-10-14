@@ -95,7 +95,7 @@
         "alwaysLoaded": false,
         "file": "assets/RightRiver.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/RightRiver.png\"}",
         "name": "RightRiver",
         "smoothed": true,
         "userAdded": true
@@ -176,7 +176,7 @@
         "alwaysLoaded": false,
         "file": "assets/NewSprite2.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite2.png\"}",
         "name": "NewSprite2",
         "smoothed": true,
         "userAdded": true
@@ -307,6 +307,136 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/b81b0bcafdd4279f3bf8d4d3865f51b9961292dad8b5ccbe88807c8acfb6b11d_Poppins-Medium.ttf",
           "name": "Poppins-Medium.ttf"
         }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Arrow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Arrow.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Western FPS 2D/Hud/261d2f5da18169c3f3f0cf2940b975a4eb4eef808b2a5d5a6d0533c21117b142_Arrow.png",
+          "name": "Arrow.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "1111111.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "1111111.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "hahaha.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "hahaha.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Daco_1721960.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"Daco_1721960.png\",\"extension\":\".png\"}",
+        "name": "Daco_1721960.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Daco_1721961.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Daco_1721961.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Daco_1721960.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Daco_1721960",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Up-Arrow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Up-Arrow.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Lucid Icons Pack/Flat/11112217068cd5dcafcb0a6c20673bd045ba9f623e9730889da989bd1ea99539_Up-Arrow.png",
+          "name": "Up-Arrow.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Daco_1721961.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Daco_1721961.png\"}",
+        "name": "Daco_1721961",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Yellow Jelly Button_Hovered.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Yellow Jelly Button_Hovered.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/5cc04ef76aad172a63070469c328ceb3f74207115ad9c2321ccfe0d5755677a0_Yellow Jelly Button_Hovered.png",
+          "name": "Yellow Jelly Button_Hovered.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Yellow Jelly Button_Idle.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Yellow Jelly Button_Idle.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/04f6f22d3160fa528875b199bb7bd4f35cf3f20fb8fde4a5d960f01df9bee3a3_Yellow Jelly Button_Idle.png",
+          "name": "Yellow Jelly Button_Idle.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Yellow Jelly Button_Pressed.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Yellow Jelly Button_Pressed.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/11abe8b7d577c30b71789404003c50b3fe73d63492fd30669a5153bc67ac0a60_Yellow Jelly Button_Pressed.png",
+          "name": "Yellow Jelly Button_Pressed.png"
+        }
+      },
+      {
+        "file": "assets/Rubik-Regular.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "Rubik-Regular.ttf",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/edbc88d46437d6403d3670eb084bcbdf08872c9f54a34ed1536c1013c412bd3b_Rubik-Regular.ttf",
+          "name": "Rubik-Regular.ttf"
+        }
       }
     ],
     "resourceFolders": []
@@ -338,7 +468,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 1.4307927813134285,
+        "zoomFactor": 0.4633111824514024,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -384,6 +514,11 @@
           "name": "varHozDistance",
           "type": "number",
           "value": 0
+        },
+        {
+          "name": "IsVector",
+          "type": "boolean",
+          "value": false
         }
       ],
       "instances": [
@@ -565,27 +700,11 @@
           "height": 0,
           "keepRatio": true,
           "layer": "",
-          "name": "TextRiverSpeed",
-          "persistentUuid": "baa63a99-2e50-4019-ab8c-bf1edc45cb41",
-          "width": 0,
-          "x": 32,
-          "y": 225,
-          "zOrder": 14,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
           "name": "Label_Time",
           "persistentUuid": "7facfe35-ff4b-4446-b7b7-531b8277ef96",
           "width": 0,
           "x": 32,
-          "y": 320,
+          "y": 416,
           "zOrder": 15,
           "numberProperties": [],
           "stringProperties": [],
@@ -593,15 +712,16 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 34,
           "keepRatio": true,
           "layer": "",
           "name": "Label_Hoz_Distance",
           "persistentUuid": "5ea32ae7-9428-4b56-b86d-1a9c60cc4b80",
-          "width": 0,
+          "width": 320,
           "x": 32,
-          "y": 382,
+          "y": 478,
           "zOrder": 16,
           "numberProperties": [],
           "stringProperties": [],
@@ -617,7 +737,7 @@
           "persistentUuid": "363bf7d0-fad6-4999-b1f0-1e203d31549d",
           "width": 0,
           "x": 32,
-          "y": 480,
+          "y": 576,
           "zOrder": 17,
           "numberProperties": [],
           "stringProperties": [],
@@ -632,8 +752,8 @@
           "name": "Val_Hoz_Distance",
           "persistentUuid": "2bc7deaa-e611-4632-a7a4-76b232e9b0e4",
           "width": 0,
-          "x": 32,
-          "y": 428,
+          "x": 335,
+          "y": 480,
           "zOrder": 18,
           "numberProperties": [],
           "stringProperties": [],
@@ -648,8 +768,8 @@
           "name": "Val_Ver_Distance",
           "persistentUuid": "18f5bb57-0570-4014-b8f8-f8f5bc98c606",
           "width": 0,
-          "x": 32,
-          "y": 524,
+          "x": 335,
+          "y": 574,
           "zOrder": 19,
           "numberProperties": [],
           "stringProperties": [],
@@ -665,7 +785,7 @@
           "persistentUuid": "ea54a3c5-f355-4e04-84c0-ba708cf28805",
           "width": 0,
           "x": 224,
-          "y": 320,
+          "y": 416,
           "zOrder": 20,
           "numberProperties": [],
           "stringProperties": [],
@@ -682,7 +802,7 @@
           "persistentUuid": "d6919215-75dc-4eea-b188-d788fa67a7b2",
           "width": 32,
           "x": 880,
-          "y": 368,
+          "y": 353,
           "zOrder": 7,
           "numberProperties": [],
           "stringProperties": [],
@@ -749,8 +869,173 @@
           "persistentUuid": "11390198-faa7-48b7-b2e4-a3101983fecf",
           "width": 0,
           "x": 640,
-          "y": 320,
+          "y": 288,
           "zOrder": 22,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 32,
+          "keepRatio": true,
+          "layer": "",
+          "name": "vector",
+          "persistentUuid": "a0faf633-46b7-48a1-adc7-3215184af9ff",
+          "width": 32,
+          "x": 625,
+          "y": 439,
+          "zOrder": 24,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 90,
+          "customSize": true,
+          "depth": 0,
+          "height": 12,
+          "keepRatio": true,
+          "layer": "",
+          "name": "VecVertical",
+          "persistentUuid": "7643ecd3-754e-4b3b-bff5-25749c162565",
+          "width": 12,
+          "x": 640,
+          "y": 456,
+          "zOrder": 25,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 12,
+          "keepRatio": true,
+          "layer": "",
+          "name": "VecHoz",
+          "persistentUuid": "04343bdf-14fc-4484-82d5-3e4ac0fcf1a8",
+          "width": 12,
+          "x": 768,
+          "y": 320,
+          "zOrder": 26,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "vector",
+          "persistentUuid": "b1ea503c-db3c-4e9f-b48e-9360569244be",
+          "width": 0,
+          "x": 736,
+          "y": 288,
+          "zOrder": 27,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "TextRiverSpeed",
+          "persistentUuid": "6cc9899f-1b21-4ca4-86d0-e372b6d21688",
+          "width": 0,
+          "x": 32,
+          "y": 225,
+          "zOrder": 14,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 90,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "TextRiverSpeed",
+          "persistentUuid": "3e44c5d4-5a59-4ff6-bf6a-0f570df8a3d3",
+          "width": 0,
+          "x": 1143,
+          "y": 306,
+          "zOrder": 14,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 90,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "ValRiverSpeed",
+          "persistentUuid": "d9c6fc1d-fb02-486e-abaa-b0e4293d4218",
+          "width": 0,
+          "x": 1141,
+          "y": 308,
+          "zOrder": 28,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "vector",
+          "persistentUuid": "4138884d-1a72-4bad-8a57-42a2d7801229",
+          "width": 0,
+          "x": 1152,
+          "y": 352,
+          "zOrder": 29,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 12,
+          "keepRatio": true,
+          "layer": "",
+          "name": "VecRiver",
+          "persistentUuid": "fd70d894-8d1a-40dd-b312-ad94b84a6a57",
+          "width": 12,
+          "x": 1180,
+          "y": 358,
+          "zOrder": 30,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 48,
+          "height": 64,
+          "keepRatio": true,
+          "layer": "",
+          "name": "BtnVector",
+          "persistentUuid": "3a26d2c4-d6db-44a9-8990-438b1831ab91",
+          "width": 288,
+          "x": 32,
+          "y": 320,
+          "zOrder": 31,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1382,7 +1667,7 @@
           "variables": [],
           "effects": [],
           "behaviors": [],
-          "string": "Quãng đường ngang đi được:",
+          "string": "Quãng đường theo X:",
           "font": "",
           "textAlignment": "left",
           "characterSize": 30,
@@ -1405,7 +1690,7 @@
             "shadowOpacity": 127,
             "smoothed": true,
             "underlined": false,
-            "text": "Quãng đường ngang đi được:",
+            "text": "Quãng đường theo X:",
             "font": "",
             "textAlignment": "left",
             "characterSize": 30,
@@ -1423,7 +1708,7 @@
           "variables": [],
           "effects": [],
           "behaviors": [],
-          "string": "Quãng đường dọc đi được:",
+          "string": "Quãng đường theo Y:",
           "font": "",
           "textAlignment": "left",
           "characterSize": 30,
@@ -1446,7 +1731,7 @@
             "shadowOpacity": 127,
             "smoothed": true,
             "underlined": false,
-            "text": "Quãng đường dọc đi được:",
+            "text": "Quãng đường theo Y:",
             "font": "",
             "textAlignment": "left",
             "characterSize": 30,
@@ -1764,6 +2049,336 @@
           "absoluteCoordinates": true,
           "clearBetweenFrames": true,
           "antialiasing": "none"
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "VecVertical",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Daco_1721960",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Daco_1721961",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 12,
+                        "y": 8
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 12,
+                        "y": 8
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 16
+                          },
+                          {
+                            "x": 0,
+                            "y": 16
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "name": "vector",
+          "type": "PrimitiveDrawing::Drawer",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "fillOpacity": 255,
+          "outlineSize": 2,
+          "outlineOpacity": 255,
+          "fillColor": {
+            "b": 255,
+            "g": 255,
+            "r": 255
+          },
+          "outlineColor": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "absoluteCoordinates": true,
+          "clearBetweenFrames": true,
+          "antialiasing": "none"
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "VecHoz",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Daco_1721960",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Daco_1721961",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 12,
+                        "y": 8
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 12,
+                        "y": 8
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 16
+                          },
+                          {
+                            "x": 0,
+                            "y": 16
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "ValRiverSpeed",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "0 (m/s)",
+          "font": "",
+          "textAlignment": "left",
+          "characterSize": 20,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": -6,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "0 (m/s)",
+            "font": "",
+            "textAlignment": "left",
+            "characterSize": 20,
+            "color": "0;0;0"
+          }
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "VecRiver",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Daco_1721960",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Daco_1721961",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 12,
+                        "y": 8
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 12,
+                        "y": 8
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 0
+                          },
+                          {
+                            "x": 16,
+                            "y": 16
+                          },
+                          {
+                            "x": 0,
+                            "y": 16
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "72c8adcfb9187ebb5fcfbcd75bc18c74d6af5507e7c482cadcfad28f8011b387",
+          "name": "BtnVector",
+          "type": "PanelSpriteButton::PanelSpriteButton",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "BottomPadding": 0,
+            "TopPadding": 0,
+            "LeftPadding": 10,
+            "RightPadding": 10,
+            "PressedLabelOffsetY": 2
+          },
+          "childrenContent": {
+            "Hovered": {
+              "bottomMargin": 35,
+              "height": 128,
+              "leftMargin": 56,
+              "rightMargin": 35,
+              "texture": "Orange Bubble Button_Hovered.png",
+              "tiled": false,
+              "topMargin": 35,
+              "width": 256
+            },
+            "Idle": {
+              "bottomMargin": 35,
+              "height": 128,
+              "leftMargin": 56,
+              "rightMargin": 35,
+              "texture": "Orange Bubble Button_Idle.png",
+              "tiled": false,
+              "topMargin": 35,
+              "width": 256
+            },
+            "Label": {
+              "bold": false,
+              "italic": false,
+              "smoothed": true,
+              "underlined": false,
+              "string": "Show Vector",
+              "font": "Poppins-Medium.ttf",
+              "textAlignment": "center",
+              "characterSize": 40,
+              "color": {
+                "b": 0,
+                "g": 42,
+                "r": 117
+              },
+              "content": {
+                "bold": false,
+                "isOutlineEnabled": false,
+                "isShadowEnabled": false,
+                "italic": false,
+                "outlineColor": "255;255;255",
+                "outlineThickness": 2,
+                "shadowAngle": 90,
+                "shadowBlurRadius": 2,
+                "shadowColor": "0;0;0",
+                "shadowDistance": 4,
+                "shadowOpacity": 127,
+                "smoothed": true,
+                "underlined": false,
+                "text": "Show Vector",
+                "font": "Poppins-Medium.ttf",
+                "textAlignment": "center",
+                "characterSize": 40,
+                "color": "117;42;0"
+              }
+            },
+            "Pressed": {
+              "bottomMargin": 35,
+              "height": 128,
+              "leftMargin": 35,
+              "rightMargin": 35,
+              "texture": "Orange Bubble Button_Pressed.png",
+              "tiled": false,
+              "topMargin": 35,
+              "width": 256
+            }
+          }
         }
       ],
       "objectsFolderStructure": {
@@ -1780,6 +2395,9 @@
           },
           {
             "objectName": "TextRiverSpeed"
+          },
+          {
+            "objectName": "ValRiverSpeed"
           },
           {
             "objectName": "InDegress"
@@ -1804,6 +2422,9 @@
           },
           {
             "objectName": "Road"
+          },
+          {
+            "objectName": "vector"
           },
           {
             "objectName": "BtnRun"
@@ -1831,6 +2452,18 @@
           },
           {
             "objectName": "BtnReset"
+          },
+          {
+            "objectName": "BtnVector"
+          },
+          {
+            "objectName": "VecVertical"
+          },
+          {
+            "objectName": "VecHoz"
+          },
+          {
+            "objectName": "VecRiver"
           }
         ]
       },
@@ -1865,7 +2498,7 @@
                   "parameters": [
                     "varSpeed",
                     "=",
-                    "ToNumber(InSpeed.Text::Value())"
+                    "ToNumber(InSpeed.Text::Value())*2"
                   ]
                 }
               ]
@@ -1928,7 +2561,7 @@
                   "parameters": [
                     "varRiver",
                     "=",
-                    "ToNumber(InRiverSpeed.Text::Value())"
+                    "ToNumber(InRiverSpeed.Text::Value())*2"
                   ]
                 }
               ]
@@ -2022,7 +2655,7 @@
                       "parameters": [
                         "Ship",
                         "varSpeed*cos(ToRad(varDegree))",
-                        "varSpeed*sin(ToRad(varDegree))- varRiver",
+                        "varSpeed*sin(ToRad(varDegree))+ varRiver",
                         "1"
                       ]
                     },
@@ -2269,6 +2902,25 @@
                   "parameters": [
                     "BtnPause"
                   ]
+                },
+                {
+                  "type": {
+                    "value": "Montre"
+                  },
+                  "parameters": [
+                    "BtnRun",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PanelSpriteButton::PanelSpriteButton::Activate"
+                  },
+                  "parameters": [
+                    "BtnRun",
+                    "yes",
+                    ""
+                  ]
                 }
               ]
             }
@@ -2306,7 +2958,7 @@
                   "parameters": [
                     "varTime",
                     "=",
-                    "roundTo(varHozDistance/(varSpeed*cos(ToRad(varDegree))), 2)"
+                    "roundTo(varHozDistance*2/(varSpeed*cos(ToRad(varDegree))), 2)"
                   ]
                 },
                 {
@@ -2316,7 +2968,7 @@
                   "parameters": [
                     "varVerDistance",
                     "=",
-                    "roundTo(Ship.Y()-Ship.StartY,1)"
+                    "roundTo(Ship.Y()-Ship.StartY,1)/2"
                   ]
                 },
                 {
@@ -2326,7 +2978,7 @@
                   "parameters": [
                     "varHozDistance",
                     "=",
-                    "roundTo((Ship.X()-Ship.StartX), 1)"
+                    "roundTo((Ship.X()-Ship.StartX), 1)/2"
                   ]
                 },
                 {
@@ -2428,31 +3080,605 @@
           "parameters": []
         },
         {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "Stop",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
             {
-              "type": {
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "Ship",
-                "RightRiver",
-                "",
-                "",
-                ""
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BoundingBoxTop"
+                  },
+                  "parameters": [
+                    "Ship",
+                    "<=",
+                    "0"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Arreter"
+                  },
+                  "parameters": [
+                    "Ship"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "MettreY"
+                  },
+                  "parameters": [
+                    "Ship",
+                    "=",
+                    "0"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BoundingBoxTop"
+                  },
+                  "parameters": [
+                    "Ship",
+                    ">=",
+                    "720"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Arreter"
+                  },
+                  "parameters": [
+                    "Ship"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "MettreY"
+                  },
+                  "parameters": [
+                    "Ship",
+                    "=",
+                    "720"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BoundingBoxLeft"
+                  },
+                  "parameters": [
+                    "Ship",
+                    ">=",
+                    "1152"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Arreter"
+                  },
+                  "parameters": [
+                    "Ship"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "MettreX"
+                  },
+                  "parameters": [
+                    "Ship",
+                    "=",
+                    "1152"
+                  ]
+                }
               ]
             }
           ],
-          "actions": [
+          "parameters": []
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "Vector",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
             {
-              "type": {
-                "value": "Arreter"
-              },
-              "parameters": [
-                "Ship"
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
+                  },
+                  "parameters": [
+                    "BtnVector",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetBooleanVariable"
+                  },
+                  "parameters": [
+                    "IsVector",
+                    "Toggle",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BooleanVariable"
+                  },
+                  "parameters": [
+                    "IsVector",
+                    "False",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "VecVertical"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "VecHoz"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "VecRiver"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PanelSpriteButton::PanelSpriteButton::SetLabelText"
+                  },
+                  "parameters": [
+                    "BtnVector",
+                    "\"Show Vector\"",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BooleanVariable"
+                  },
+                  "parameters": [
+                    "IsVector",
+                    "True",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PanelSpriteButton::PanelSpriteButton::SetLabelText"
+                  },
+                  "parameters": [
+                    "BtnVector",
+                    "\"Hide Vector\"",
+                    ""
+                  ]
+                }
+              ],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "NumberVariable"
+                      },
+                      "parameters": [
+                        "varSpeed",
+                        "=",
+                        "0"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Cache"
+                      },
+                      "parameters": [
+                        "VecVertical"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Cache"
+                      },
+                      "parameters": [
+                        "VecHoz"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "NumberVariable"
+                      },
+                      "parameters": [
+                        "varSpeed",
+                        "!=",
+                        "0"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Montre"
+                      },
+                      "parameters": [
+                        "VecHoz",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PrimitiveDrawing::LineV2"
+                      },
+                      "parameters": [
+                        "vector",
+                        "Ship.X()",
+                        "Ship.Y()",
+                        "VecVertical.X()",
+                        "VecVertical.Y()",
+                        "2"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PrimitiveDrawing::LineV2"
+                      },
+                      "parameters": [
+                        "vector",
+                        "Ship.X()",
+                        "Ship.Y()",
+                        "VecHoz.X()",
+                        "VecHoz.Y()",
+                        "2"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "MettreXY"
+                      },
+                      "parameters": [
+                        "VecVertical",
+                        "=",
+                        "Ship.X()",
+                        "=",
+                        "Ship.Y()+ varSpeed*sin(ToRad(varDegree))"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "MettreXY"
+                      },
+                      "parameters": [
+                        "VecHoz",
+                        "=",
+                        "Ship.X()+ varSpeed*cos(ToRad(varDegree))",
+                        "=",
+                        "Ship.Y()"
+                      ]
+                    }
+                  ],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "BuiltinCommonInstructions::CompareNumbers"
+                          },
+                          "parameters": [
+                            "sin(ToRad(varDegree))",
+                            ">",
+                            "0"
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "RotateTowardAngle"
+                          },
+                          "parameters": [
+                            "VecVertical",
+                            "90",
+                            "0",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Montre"
+                          },
+                          "parameters": [
+                            "VecVertical",
+                            ""
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "BuiltinCommonInstructions::CompareNumbers"
+                          },
+                          "parameters": [
+                            "sin(ToRad(varDegree))",
+                            "<",
+                            "0"
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "RotateTowardAngle"
+                          },
+                          "parameters": [
+                            "VecVertical",
+                            "-90",
+                            "0",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Montre"
+                          },
+                          "parameters": [
+                            "VecVertical",
+                            ""
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "NumberVariable"
+                      },
+                      "parameters": [
+                        "varDegree",
+                        "!=",
+                        "0"
+                      ]
+                    }
+                  ],
+                  "actions": []
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "NumberVariable"
+                      },
+                      "parameters": [
+                        "varRiver",
+                        "=",
+                        "0"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Cache"
+                      },
+                      "parameters": [
+                        "VecRiver"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "NumberVariable"
+                      },
+                      "parameters": [
+                        "varRiver",
+                        ">",
+                        "0"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PrimitiveDrawing::LineV2"
+                      },
+                      "parameters": [
+                        "vector",
+                        "ValRiverSpeed.CenterX()",
+                        "ValRiverSpeed.BoundingBoxBottom()+16",
+                        "VecRiver.X()",
+                        "VecRiver.Y()",
+                        "2"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "MettreXY"
+                      },
+                      "parameters": [
+                        "VecRiver",
+                        "=",
+                        "ValRiverSpeed.CenterX()",
+                        "=",
+                        "ValRiverSpeed.BoundingBoxBottom()+varRiver+16"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "RotateTowardAngle"
+                      },
+                      "parameters": [
+                        "VecRiver",
+                        "90",
+                        "0",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Montre"
+                      },
+                      "parameters": [
+                        "VecRiver",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                      },
+                      "parameters": [
+                        "ValRiverSpeed",
+                        "Text",
+                        "=",
+                        "ToString(varRiver/2)+\" (m/s)\""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "NumberVariable"
+                      },
+                      "parameters": [
+                        "varRiver",
+                        "<",
+                        "0"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PrimitiveDrawing::LineV2"
+                      },
+                      "parameters": [
+                        "vector",
+                        "ValRiverSpeed.CenterX()",
+                        "ValRiverSpeed.BoundingBoxTop()-16",
+                        "VecRiver.X()",
+                        "VecRiver.Y()",
+                        "2"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "MettreXY"
+                      },
+                      "parameters": [
+                        "VecRiver",
+                        "=",
+                        "ValRiverSpeed.CenterX()",
+                        "=",
+                        "ValRiverSpeed.BoundingBoxTop()+varRiver-16"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "RotateTowardAngle"
+                      },
+                      "parameters": [
+                        "VecRiver",
+                        "-90",
+                        "0",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Montre"
+                      },
+                      "parameters": [
+                        "VecRiver",
+                        ""
+                      ]
+                    }
+                  ]
+                }
               ]
             }
-          ]
+          ],
+          "parameters": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": []
         }
       ],
       "layers": [
