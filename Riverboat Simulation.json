@@ -437,6 +437,161 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/edbc88d46437d6403d3670eb084bcbdf08872c9f54a34ed1536c1013c412bd3b_Rubik-Regular.ttf",
           "name": "Rubik-Regular.ttf"
         }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Bubble.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Bubble.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Particles/PixiJS/12254a94cf3e8dbc4bcccadf4f2f761ee0736f0abe7405c4a419fab822ba90ca_Bubble.png",
+          "name": "Bubble.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Sparks.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sparks.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Particles/PixiJS/1be94c18bc3de19355d118a226f03e10a4f18307277f00f3559d265a9b27bbef_Sparks.png",
+          "name": "Sparks.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Rain.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/Rain.png\",\"extension\":\".png\",\"pskl\":{}}",
+        "name": "Rain.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Particles/PixiJS/7a335da0136a4a4aa158c6001348e99f6b208400b90a0535f0c981005e29d994_Rain.png",
+          "name": "Rain.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Rain.png2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "Rain.png2",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Bubble.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/Bubble.png\",\"extension\":\".png\",\"pskl\":{}}",
+        "name": "assets\\Bubble.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/assets_Bubble.png2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{},\"localFilePath\":\"assets/assets_Bubble.png2.png\"}",
+        "name": "assets\\Bubble.png2",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/White Sleek Button_Hovered.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "White Sleek Button_Hovered.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/f6cc4ba876203745a8518ced52d0d773ff01ff8a63cdd9ac24388e5f3623cb48_White Sleek Button_Hovered.png",
+          "name": "White Sleek Button_Hovered.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/White Sleek Button_Idle.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "White Sleek Button_Idle.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/4d6db3c01bcade6c9060eb7bb37090777c228a29da7c5f25480b0cdedd37dc98_White Sleek Button_Idle.png",
+          "name": "White Sleek Button_Idle.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/White Sleek Button_Pressed.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "White Sleek Button_Pressed.png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/1e0387e7db58479ccb896a55b62f6db0955c926ad0f92a28d4306045c44245b2_White Sleek Button_Pressed.png",
+          "name": "White Sleek Button_Pressed.png"
+        }
+      },
+      {
+        "file": "assets/WorkSans-Regular.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "WorkSans-Regular.ttf",
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/956a1314d3eda5bdbfe43362008ef0b147053bc8fcd9fa5a38ed244af8445197_WorkSans-Regular.ttf",
+          "name": "WorkSans-Regular.ttf"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Blue Button_Hovered.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Blue Button_Hovered.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/1ffd07cb739df2a909155dd3057f6def46b833ced6ef1a09527b6ea59e88e464_Blue Button_Hovered.png",
+          "name": "Blue Button_Hovered.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Blue Button_Idle.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Blue Button_Idle.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/eeac55458b66fb84f756b38085fbf7d1e079c39363c942abd35ea9d0939465ce_Blue Button_Idle.png",
+          "name": "Blue Button_Idle.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Blue Button_Pressed.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Blue Button_Pressed.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/f0ede8843d544f6e84bc09299a8aabffbce558966f25af98f7b47ab1648217ce_Blue Button_Pressed.png",
+          "name": "Blue Button_Pressed.png"
+        }
       }
     ],
     "resourceFolders": []
@@ -446,7 +601,25 @@
     "folderName": "__ROOT"
   },
   "objectsGroups": [],
-  "variables": [],
+  "variables": [
+    {
+      "name": "History",
+      "type": "array",
+      "children": []
+    },
+    {
+      "folded": true,
+      "name": "value",
+      "type": "string",
+      "value": "0"
+    },
+    {
+      "folded": true,
+      "name": "label",
+      "type": "string",
+      "value": "0"
+    }
+  ],
   "layouts": [
     {
       "b": 209,
@@ -468,7 +641,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.4633111824514024,
+        "zoomFactor": 0.3216911764705944,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -533,7 +706,7 @@
           "persistentUuid": "444b69af-d5ad-427d-9d87-c6c8954b7e7c",
           "width": 288,
           "x": 32,
-          "y": 123,
+          "y": 155,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -550,7 +723,7 @@
           "persistentUuid": "e83ef303-0602-4325-9172-c8ced8705f4d",
           "width": 288,
           "x": 34,
-          "y": 187,
+          "y": 219,
           "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
@@ -582,7 +755,7 @@
           "layer": "",
           "name": "River",
           "persistentUuid": "43c5cfe8-3d9c-4eca-b930-dcfbc5783fd9",
-          "width": 512,
+          "width": 416,
           "x": 640,
           "y": 0,
           "zOrder": 6,
@@ -599,8 +772,8 @@
           "layer": "",
           "name": "RightRiver",
           "persistentUuid": "affc3f1a-6cdf-45b8-a38e-78d97247f744",
-          "width": 128,
-          "x": 1152,
+          "width": 224,
+          "x": 1056,
           "y": 0,
           "zOrder": 7,
           "numberProperties": [],
@@ -618,7 +791,7 @@
           "persistentUuid": "64c9a713-f6db-4927-87c8-005c93ce90ac",
           "width": 288,
           "x": 34,
-          "y": 251,
+          "y": 283,
           "zOrder": 9,
           "numberProperties": [],
           "stringProperties": [],
@@ -672,7 +845,7 @@
           "persistentUuid": "77f8625a-82f7-4f9c-8f9e-489c78c83a9f",
           "width": 0,
           "x": 32,
-          "y": 96,
+          "y": 128,
           "zOrder": 12,
           "numberProperties": [],
           "stringProperties": [],
@@ -688,7 +861,7 @@
           "persistentUuid": "d71c08b1-618a-45fe-9578-afdd19e764de",
           "width": 0,
           "x": 32,
-          "y": 162,
+          "y": 194,
           "zOrder": 13,
           "numberProperties": [],
           "stringProperties": [],
@@ -704,7 +877,7 @@
           "persistentUuid": "7facfe35-ff4b-4446-b7b7-531b8277ef96",
           "width": 0,
           "x": 32,
-          "y": 416,
+          "y": 448,
           "zOrder": 15,
           "numberProperties": [],
           "stringProperties": [],
@@ -721,7 +894,7 @@
           "persistentUuid": "5ea32ae7-9428-4b56-b86d-1a9c60cc4b80",
           "width": 320,
           "x": 32,
-          "y": 478,
+          "y": 510,
           "zOrder": 16,
           "numberProperties": [],
           "stringProperties": [],
@@ -737,7 +910,7 @@
           "persistentUuid": "363bf7d0-fad6-4999-b1f0-1e203d31549d",
           "width": 0,
           "x": 32,
-          "y": 576,
+          "y": 578,
           "zOrder": 17,
           "numberProperties": [],
           "stringProperties": [],
@@ -753,7 +926,7 @@
           "persistentUuid": "2bc7deaa-e611-4632-a7a4-76b232e9b0e4",
           "width": 0,
           "x": 335,
-          "y": 480,
+          "y": 512,
           "zOrder": 18,
           "numberProperties": [],
           "stringProperties": [],
@@ -769,7 +942,7 @@
           "persistentUuid": "18f5bb57-0570-4014-b8f8-f8f5bc98c606",
           "width": 0,
           "x": 335,
-          "y": 574,
+          "y": 576,
           "zOrder": 19,
           "numberProperties": [],
           "stringProperties": [],
@@ -785,7 +958,7 @@
           "persistentUuid": "ea54a3c5-f355-4e04-84c0-ba708cf28805",
           "width": 0,
           "x": 224,
-          "y": 416,
+          "y": 448,
           "zOrder": 20,
           "numberProperties": [],
           "stringProperties": [],
@@ -952,7 +1125,7 @@
           "persistentUuid": "6cc9899f-1b21-4ca4-86d0-e372b6d21688",
           "width": 0,
           "x": 32,
-          "y": 225,
+          "y": 257,
           "zOrder": 14,
           "numberProperties": [],
           "stringProperties": [],
@@ -967,8 +1140,8 @@
           "name": "TextRiverSpeed",
           "persistentUuid": "3e44c5d4-5a59-4ff6-bf6a-0f570df8a3d3",
           "width": 0,
-          "x": 1143,
-          "y": 306,
+          "x": 1039,
+          "y": 338,
           "zOrder": 14,
           "numberProperties": [],
           "stringProperties": [],
@@ -978,13 +1151,12 @@
           "angle": 90,
           "customSize": false,
           "height": 0,
-          "keepRatio": true,
           "layer": "",
           "name": "ValRiverSpeed",
           "persistentUuid": "d9c6fc1d-fb02-486e-abaa-b0e4293d4218",
           "width": 0,
-          "x": 1141,
-          "y": 308,
+          "x": 1036,
+          "y": 340,
           "zOrder": 28,
           "numberProperties": [],
           "stringProperties": [],
@@ -1034,8 +1206,73 @@
           "persistentUuid": "3a26d2c4-d6db-44a9-8990-438b1831ab91",
           "width": 288,
           "x": 32,
-          "y": 320,
+          "y": 352,
           "zOrder": 31,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Unitms",
+          "persistentUuid": "b020641a-15db-4f8b-accf-8f01c3a22387",
+          "width": 0,
+          "x": 332,
+          "y": 288,
+          "zOrder": 32,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Unitms",
+          "persistentUuid": "ab95c866-ca2e-4227-b9be-49fc6573d576",
+          "width": 0,
+          "x": 332,
+          "y": 160,
+          "zOrder": 32,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Unitdegress",
+          "persistentUuid": "7539e82a-33e2-4b7b-938d-abe0781899ef",
+          "width": 0,
+          "x": 338,
+          "y": 224,
+          "zOrder": 33,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 48,
+          "height": 64,
+          "keepRatio": true,
+          "layer": "",
+          "name": "BtnHistory",
+          "persistentUuid": "5e018f80-0e3b-4258-b765-42ba663d5233",
+          "width": 192,
+          "x": 288,
+          "y": 14,
+          "zOrder": 34,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2379,6 +2616,305 @@
               "width": 256
             }
           }
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "Unitms",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "(m/s)   [0-999]",
+          "font": "",
+          "textAlignment": "left",
+          "characterSize": 20,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "(m/s)   [0-999]",
+            "font": "",
+            "textAlignment": "left",
+            "characterSize": 20,
+            "color": "0;0;0"
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "Unitdegress",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "(°)     [-90,90]",
+          "font": "",
+          "textAlignment": "left",
+          "characterSize": 20,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "(°)     [-90,90]",
+            "font": "",
+            "textAlignment": "left",
+            "characterSize": 20,
+            "color": "0;0;0"
+          }
+        },
+        {
+          "additive": false,
+          "assetStoreId": "820283d06730d55f99b62d1b5b3694a4e7803487f8cc7dbed41d0ae6da7df5e3",
+          "destroyWhenNoParticles": true,
+          "emitterAngleA": 0,
+          "emitterAngleB": 0,
+          "emitterForceMax": -10,
+          "emitterForceMin": -10,
+          "flow": 6,
+          "jumpForwardInTimeOnCreation": 0,
+          "maxParticleNb": 50,
+          "name": "Rain",
+          "particleAlpha1": 127,
+          "particleAlpha2": 127,
+          "particleAlphaRandomness1": 0,
+          "particleAlphaRandomness2": 0,
+          "particleAngle1": 0,
+          "particleAngle2": 0,
+          "particleAngleRandomness1": 0,
+          "particleAngleRandomness2": 0,
+          "particleBlue1": 255,
+          "particleBlue2": 255,
+          "particleGravityX": 0,
+          "particleGravityY": 0,
+          "particleGreen1": 255,
+          "particleGreen2": 255,
+          "particleLifeTimeMax": 4,
+          "particleLifeTimeMin": 3,
+          "particleRed1": 255,
+          "particleRed2": 255,
+          "particleSize1": 50,
+          "particleSize2": 70,
+          "particleSizeRandomness1": 0,
+          "particleSizeRandomness2": 0,
+          "rendererParam1": 1,
+          "rendererParam2": 1,
+          "rendererType": "Quad",
+          "tank": -1,
+          "textureParticleName": "Rain.png2",
+          "type": "ParticleSystem::ParticleEmitter",
+          "zoneRadius": 220,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "additive": false,
+          "assetStoreId": "",
+          "destroyWhenNoParticles": true,
+          "emitterAngleA": 0,
+          "emitterAngleB": 50,
+          "emitterForceMax": 85,
+          "emitterForceMin": 45,
+          "flow": 45,
+          "jumpForwardInTimeOnCreation": 0,
+          "maxParticleNb": 300,
+          "name": "NewParticlesEmitter",
+          "particleAlpha1": 204,
+          "particleAlpha2": 0,
+          "particleAlphaRandomness1": 0,
+          "particleAlphaRandomness2": 0,
+          "particleAngle1": 0,
+          "particleAngle2": 0,
+          "particleAngleRandomness1": 0,
+          "particleAngleRandomness2": 0,
+          "particleBlue1": 243,
+          "particleBlue2": 8,
+          "particleGravityX": 0,
+          "particleGravityY": 0,
+          "particleGreen1": 243,
+          "particleGreen2": 56,
+          "particleLifeTimeMax": 2.5,
+          "particleLifeTimeMin": 0.5,
+          "particleRed1": 248,
+          "particleRed2": 56,
+          "particleSize1": 100,
+          "particleSize2": 100,
+          "particleSizeRandomness1": 0,
+          "particleSizeRandomness2": 0,
+          "rendererParam1": 3,
+          "rendererParam2": 1,
+          "rendererType": "Line",
+          "tank": -1,
+          "textureParticleName": "",
+          "type": "ParticleSystem::ParticleEmitter",
+          "zoneRadius": 3,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "additive": false,
+          "assetStoreId": "1c010f733d45fbe792e563d6463f14f4d3d0b48d52de37f51bba3c821b0c7a12",
+          "destroyWhenNoParticles": false,
+          "emitterAngleA": 0,
+          "emitterAngleB": 0,
+          "emitterForceMax": 200,
+          "emitterForceMin": 200,
+          "flow": 50,
+          "jumpForwardInTimeOnCreation": 0,
+          "maxParticleNb": 500,
+          "name": "VerticalBubbles",
+          "particleAlpha1": 255,
+          "particleAlpha2": 25,
+          "particleAlphaRandomness1": 0,
+          "particleAlphaRandomness2": 0,
+          "particleAngle1": 50,
+          "particleAngle2": 50,
+          "particleAngleRandomness1": 0,
+          "particleAngleRandomness2": 0,
+          "particleBlue1": 255,
+          "particleBlue2": 255,
+          "particleGravityX": 0,
+          "particleGravityY": -200,
+          "particleGreen1": 255,
+          "particleGreen2": 255,
+          "particleLifeTimeMax": 4,
+          "particleLifeTimeMin": 3.5,
+          "particleRed1": 255,
+          "particleRed2": 255,
+          "particleSize1": 10,
+          "particleSize2": 25,
+          "particleSizeRandomness1": 0,
+          "particleSizeRandomness2": 0,
+          "rendererParam1": 1,
+          "rendererParam2": 1,
+          "rendererType": "Quad",
+          "tank": -1,
+          "textureParticleName": "Bubble.png",
+          "type": "ParticleSystem::ParticleEmitter",
+          "zoneRadius": 200,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "72c8adcfb9187ebb5fcfbcd75bc18c74d6af5507e7c482cadcfad28f8011b387",
+          "name": "BtnHistory",
+          "type": "PanelSpriteButton::PanelSpriteButton",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "BottomPadding": 0,
+            "TopPadding": 0,
+            "LeftPadding": 10,
+            "RightPadding": 10,
+            "PressedLabelOffsetY": 2
+          },
+          "childrenContent": {
+            "Hovered": {
+              "bottomMargin": 35,
+              "height": 128,
+              "leftMargin": 56,
+              "rightMargin": 35,
+              "texture": "Orange Bubble Button_Hovered.png",
+              "tiled": false,
+              "topMargin": 35,
+              "width": 256
+            },
+            "Idle": {
+              "bottomMargin": 35,
+              "height": 128,
+              "leftMargin": 56,
+              "rightMargin": 35,
+              "texture": "Orange Bubble Button_Idle.png",
+              "tiled": false,
+              "topMargin": 35,
+              "width": 256
+            },
+            "Label": {
+              "bold": false,
+              "italic": false,
+              "smoothed": true,
+              "underlined": false,
+              "string": "History",
+              "font": "Poppins-Medium.ttf",
+              "textAlignment": "center",
+              "characterSize": 40,
+              "color": {
+                "b": 0,
+                "g": 42,
+                "r": 117
+              },
+              "content": {
+                "bold": false,
+                "isOutlineEnabled": false,
+                "isShadowEnabled": false,
+                "italic": false,
+                "outlineColor": "255;255;255",
+                "outlineThickness": 2,
+                "shadowAngle": 90,
+                "shadowBlurRadius": 2,
+                "shadowColor": "0;0;0",
+                "shadowDistance": 4,
+                "shadowOpacity": 127,
+                "smoothed": true,
+                "underlined": false,
+                "text": "History",
+                "font": "Poppins-Medium.ttf",
+                "textAlignment": "center",
+                "characterSize": 40,
+                "color": "117;42;0"
+              }
+            },
+            "Pressed": {
+              "bottomMargin": 35,
+              "height": 128,
+              "leftMargin": 35,
+              "rightMargin": 35,
+              "texture": "Orange Bubble Button_Pressed.png",
+              "tiled": false,
+              "topMargin": 35,
+              "width": 256
+            }
+          }
         }
       ],
       "objectsFolderStructure": {
@@ -2389,6 +2925,12 @@
           },
           {
             "objectName": "InSpeed"
+          },
+          {
+            "objectName": "Unitms"
+          },
+          {
+            "objectName": "Unitdegress"
           },
           {
             "objectName": "TextDegrees"
@@ -2454,6 +2996,9 @@
             "objectName": "BtnReset"
           },
           {
+            "objectName": "BtnHistory"
+          },
+          {
             "objectName": "BtnVector"
           },
           {
@@ -2464,6 +3009,15 @@
           },
           {
             "objectName": "VecRiver"
+          },
+          {
+            "objectName": "Rain"
+          },
+          {
+            "objectName": "NewParticlesEmitter"
+          },
+          {
+            "objectName": "VerticalBubbles"
           }
         ]
       },
@@ -2562,6 +3116,17 @@
                     "varRiver",
                     "=",
                     "ToNumber(InRiverSpeed.Text::Value())*2"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "ValRiverSpeed",
+                    "Text",
+                    "=",
+                    "ToString(varRiver/2)+\" (m/s)\""
                   ]
                 }
               ]
@@ -2921,6 +3486,15 @@
                     "yes",
                     ""
                   ]
+                },
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "Rain",
+                    ""
+                  ]
                 }
               ]
             }
@@ -2956,19 +3530,9 @@
                     "value": "SetNumberVariable"
                   },
                   "parameters": [
-                    "varTime",
-                    "=",
-                    "roundTo(varHozDistance*2/(varSpeed*cos(ToRad(varDegree))), 2)"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "SetNumberVariable"
-                  },
-                  "parameters": [
                     "varVerDistance",
                     "=",
-                    "roundTo(Ship.Y()-Ship.StartY,1)/2"
+                    "roundTo((Ship.Y()-Ship.StartY)/2,1)"
                   ]
                 },
                 {
@@ -2978,7 +3542,7 @@
                   "parameters": [
                     "varHozDistance",
                     "=",
-                    "roundTo((Ship.X()-Ship.StartX), 1)/2"
+                    "roundTo((Ship.X()-Ship.StartX)/2, 1)"
                   ]
                 },
                 {
@@ -3002,16 +3566,83 @@
                     "=",
                     "ToString(varVerDistance)"
                   ]
+                }
+              ],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::CompareNumbers"
+                      },
+                      "parameters": [
+                        "Ship.StartX",
+                        "=",
+                        "Ship.X()"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                      },
+                      "parameters": [
+                        "Val_Time",
+                        "Text",
+                        "=",
+                        "ToString(varTime)"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetNumberVariable"
+                      },
+                      "parameters": [
+                        "varTime",
+                        "=",
+                        "roundTo(varVerDistance*2/(varSpeed*sin(ToRad(varDegree))+ varRiver), 2)"
+                      ]
+                    }
+                  ]
                 },
                 {
-                  "type": {
-                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
-                  },
-                  "parameters": [
-                    "Val_Time",
-                    "Text",
-                    "=",
-                    "ToString(varTime)"
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::CompareNumbers"
+                      },
+                      "parameters": [
+                        "Ship.StartX",
+                        "!=",
+                        "Ship.X()"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                      },
+                      "parameters": [
+                        "Val_Time",
+                        "Text",
+                        "=",
+                        "ToString(varTime)"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetNumberVariable"
+                      },
+                      "parameters": [
+                        "varTime",
+                        "=",
+                        "roundTo(varHozDistance*2/(varSpeed*cos(ToRad(varDegree))), 2)"
+                      ]
+                    }
                   ]
                 }
               ]
@@ -3100,6 +3731,12 @@
                     "<=",
                     "0"
                   ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
                 }
               ],
               "actions": [
@@ -3120,6 +3757,23 @@
                     "=",
                     "0"
                   ]
+                },
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "0.5"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PushString"
+                  },
+                  "parameters": [
+                    "History",
+                    "\"     \"+ToString(varSpeed/2)+\"                        \"+ ToString( varDegree) + \"                   \" + ToString(varRiver/2) + \"                          \" + ToString(varTime) + \"                      \" + ToString(varHozDistance) + \"                     \" + ToString(abs(varVerDistance))"
+                  ]
                 }
               ]
             },
@@ -3135,6 +3789,12 @@
                     ">=",
                     "720"
                   ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
                 }
               ],
               "actions": [
@@ -3155,6 +3815,23 @@
                     "=",
                     "720"
                   ]
+                },
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "0.5"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PushString"
+                  },
+                  "parameters": [
+                    "History",
+                    "\"     \"+ToString(varSpeed/2)+\"                        \"+ ToString( varDegree) + \"                   \" + ToString(varRiver/2) + \"                          \" + ToString(varTime) + \"                     \" + ToString(varHozDistance) + \"                    \" + ToString(abs(varVerDistance))"
+                  ]
                 }
               ]
             },
@@ -3168,8 +3845,14 @@
                   "parameters": [
                     "Ship",
                     ">=",
-                    "1152"
+                    "1056"
                   ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
                 }
               ],
               "actions": [
@@ -3188,7 +3871,24 @@
                   "parameters": [
                     "Ship",
                     "=",
-                    "1152"
+                    "1056"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "0.5"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PushString"
+                  },
+                  "parameters": [
+                    "History",
+                    "\"     \"+ToString(varSpeed/2)+\"                        \"+ ToString( varDegree) + \"                   \" + ToString(varRiver/2) + \"                          \" + ToString(varTime) + \"                     \" + ToString(varHozDistance) + \"                    \" + ToString(abs(varVerDistance))"
                   ]
                 }
               ]
@@ -3502,22 +4202,6 @@
                         "value": "NumberVariable"
                       },
                       "parameters": [
-                        "varDegree",
-                        "!=",
-                        "0"
-                      ]
-                    }
-                  ],
-                  "actions": []
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "NumberVariable"
-                      },
-                      "parameters": [
                         "varRiver",
                         "=",
                         "0"
@@ -3594,17 +4278,6 @@
                         "VecRiver",
                         ""
                       ]
-                    },
-                    {
-                      "type": {
-                        "value": "TextContainerCapability::TextContainerBehavior::SetValue"
-                      },
-                      "parameters": [
-                        "ValRiverSpeed",
-                        "Text",
-                        "=",
-                        "ToString(varRiver/2)+\" (m/s)\""
-                      ]
                     }
                   ]
                 },
@@ -3676,9 +4349,366 @@
           "parameters": []
         },
         {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "Dòng nước",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "varRiver",
+                    "!=",
+                    "0"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ParticleSystem::EmitterForceMin"
+                  },
+                  "parameters": [
+                    "Rain",
+                    "=",
+                    "abs(varRiver)"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ParticleSystem::EmitterForceMax"
+                  },
+                  "parameters": [
+                    "Rain",
+                    "=",
+                    "abs(varRiver)"
+                  ]
+                }
+              ],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Create"
+                      },
+                      "parameters": [
+                        "",
+                        "Rain",
+                        "848",
+                        "750",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Create"
+                      },
+                      "parameters": [
+                        "",
+                        "Rain",
+                        "848",
+                        "400",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Create"
+                      },
+                      "parameters": [
+                        "",
+                        "Rain",
+                        "848",
+                        "50",
+                        ""
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "varRiver",
+                    "<",
+                    "0"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "RotateTowardAngle"
+                  },
+                  "parameters": [
+                    "Rain",
+                    "-90",
+                    "0",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "varRiver",
+                    ">",
+                    "0"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "RotateTowardAngle"
+                  },
+                  "parameters": [
+                    "Rain",
+                    "90",
+                    "0",
+                    ""
+                  ]
+                }
+              ]
+            }
+          ],
+          "parameters": []
+        },
+        {
           "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": []
+          "conditions": [
+            {
+              "type": {
+                "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
+              },
+              "parameters": [
+                "BtnHistory",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"History\"",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "Validate",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "varDegree",
+                    ">",
+                    "90"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "InDegress",
+                    "Text",
+                    "=",
+                    "\"90\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "varDegree",
+                    "<",
+                    "-90"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "InDegress",
+                    "Text",
+                    "=",
+                    "\"-90\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "varSpeed",
+                    "<",
+                    "0"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "InSpeed",
+                    "Text",
+                    "=",
+                    "\"0\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "varSpeed",
+                    ">",
+                    "999"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "InSpeed",
+                    "Text",
+                    "=",
+                    "\"999\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "varRiver",
+                    "<",
+                    "0"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "InRiverSpeed",
+                    "Text",
+                    "=",
+                    "\"0\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "varRiver",
+                    ">",
+                    "999"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "InRiverSpeed",
+                    "Text",
+                    "=",
+                    "\"999\""
+                  ]
+                }
+              ]
+            }
+          ],
+          "parameters": []
         }
       ],
       "layers": [
@@ -3768,15 +4798,405 @@
       "stopSoundsOnStartup": true,
       "title": "",
       "v": 209,
-      "uiSettings": {},
+      "uiSettings": {
+        "grid": false,
+        "gridType": "rectangular",
+        "gridWidth": 32,
+        "gridHeight": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridColor": 10401023,
+        "gridAlpha": 0.8,
+        "snap": false,
+        "zoomFactor": 0.546875,
+        "windowMask": false
+      },
       "objectsGroups": [],
       "variables": [],
-      "instances": [],
-      "objects": [],
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 624,
+          "keepRatio": true,
+          "layer": "",
+          "name": "HistoryText",
+          "persistentUuid": "14f1a570-1d38-48a8-a4ff-1b257def1822",
+          "width": 1251,
+          "x": 14,
+          "y": 147,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 31,
+          "height": 79,
+          "layer": "",
+          "name": "BtnBack",
+          "persistentUuid": "226af655-9893-4b9f-ac70-1d6652a920d9",
+          "width": 256,
+          "x": 39,
+          "y": 23,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 48,
+          "height": 79,
+          "layer": "",
+          "name": "BtnClear",
+          "persistentUuid": "5286817b-c492-4021-ba33-7748636b725f",
+          "width": 256,
+          "x": 980,
+          "y": 23,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        }
+      ],
+      "objects": [
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "HistoryText",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Vận tốc thuyền          Góc          Vận tốc nước          Thời gian         Qd theo X        Qd theo Y\n      (m/s)                     (°)                 (m/s)                      (s)                      (m)                    (m)",
+          "font": "",
+          "textAlignment": "left",
+          "characterSize": 30,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Vận tốc thuyền          Góc          Vận tốc nước          Thời gian         Qd theo X        Qd theo Y\n      (m/s)                     (°)                 (m/s)                      (s)                      (m)                    (m)",
+            "font": "",
+            "textAlignment": "left",
+            "characterSize": 30,
+            "color": "0;0;0"
+          }
+        },
+        {
+          "assetStoreId": "26f7912e497fefccd32817a0c24533c9304633b47c6e556065dc498219877e81",
+          "name": "BtnBack",
+          "type": "PanelSpriteButton::PanelSpriteButton",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "LeftPadding": 0,
+            "RightPadding": 0,
+            "PressedLabelOffsetY": 1,
+            "BottomPadding": 0,
+            "TopPadding": 0,
+            "HoveredFadeOutDuration": 0.2
+          },
+          "childrenContent": {
+            "Hovered": {
+              "bottomMargin": 6,
+              "height": 64,
+              "leftMargin": 6,
+              "rightMargin": 6,
+              "texture": "On Screen Controls Button_Hovered.png",
+              "tiled": false,
+              "topMargin": 6,
+              "width": 192
+            },
+            "Idle": {
+              "bottomMargin": 6,
+              "height": 64,
+              "leftMargin": 6,
+              "rightMargin": 6,
+              "texture": "On Screen Controls Button_Idle.png",
+              "tiled": false,
+              "topMargin": 6,
+              "width": 192
+            },
+            "Label": {
+              "bold": false,
+              "italic": false,
+              "smoothed": true,
+              "underlined": false,
+              "string": "<  Back",
+              "font": "Roboto-Bold.ttf",
+              "textAlignment": "center",
+              "characterSize": 40,
+              "color": {
+                "b": 255,
+                "g": 255,
+                "r": 255
+              },
+              "content": {
+                "bold": false,
+                "isOutlineEnabled": false,
+                "isShadowEnabled": false,
+                "italic": false,
+                "outlineColor": "255;255;255",
+                "outlineThickness": 2,
+                "shadowAngle": 90,
+                "shadowBlurRadius": 2,
+                "shadowColor": "0;0;0",
+                "shadowDistance": 4,
+                "shadowOpacity": 127,
+                "smoothed": true,
+                "underlined": false,
+                "text": "<  Back",
+                "font": "Roboto-Bold.ttf",
+                "textAlignment": "center",
+                "characterSize": 40,
+                "color": "255;255;255"
+              }
+            },
+            "Pressed": {
+              "bottomMargin": 6,
+              "height": 64,
+              "leftMargin": 6,
+              "rightMargin": 6,
+              "texture": "On Screen Controls Button_Pressed.png",
+              "tiled": false,
+              "topMargin": 6,
+              "width": 192
+            }
+          }
+        },
+        {
+          "assetStoreId": "26f7912e497fefccd32817a0c24533c9304633b47c6e556065dc498219877e81",
+          "name": "BtnClear",
+          "type": "PanelSpriteButton::PanelSpriteButton",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "LeftPadding": 0,
+            "RightPadding": 0,
+            "PressedLabelOffsetY": 1,
+            "BottomPadding": 0,
+            "TopPadding": 0,
+            "HoveredFadeOutDuration": 0.2
+          },
+          "childrenContent": {
+            "Hovered": {
+              "bottomMargin": 6,
+              "height": 64,
+              "leftMargin": 6,
+              "rightMargin": 6,
+              "texture": "On Screen Controls Button_Hovered.png",
+              "tiled": false,
+              "topMargin": 6,
+              "width": 192
+            },
+            "Idle": {
+              "bottomMargin": 6,
+              "height": 64,
+              "leftMargin": 6,
+              "rightMargin": 6,
+              "texture": "assets\\On Screen Controls Button_Idle - Copy.png",
+              "tiled": false,
+              "topMargin": 6,
+              "width": 192
+            },
+            "Label": {
+              "bold": false,
+              "italic": false,
+              "smoothed": true,
+              "underlined": false,
+              "string": "Clear History",
+              "font": "Roboto-Bold.ttf",
+              "textAlignment": "center",
+              "characterSize": 40,
+              "color": {
+                "b": 255,
+                "g": 255,
+                "r": 255
+              },
+              "content": {
+                "bold": false,
+                "isOutlineEnabled": false,
+                "isShadowEnabled": false,
+                "italic": false,
+                "outlineColor": "255;255;255",
+                "outlineThickness": 2,
+                "shadowAngle": 90,
+                "shadowBlurRadius": 2,
+                "shadowColor": "0;0;0",
+                "shadowDistance": 4,
+                "shadowOpacity": 127,
+                "smoothed": true,
+                "underlined": false,
+                "text": "Clear History",
+                "font": "Roboto-Bold.ttf",
+                "textAlignment": "center",
+                "characterSize": 40,
+                "color": "255;255;255"
+              }
+            },
+            "Pressed": {
+              "bottomMargin": 6,
+              "height": 64,
+              "leftMargin": 6,
+              "rightMargin": 6,
+              "texture": "On Screen Controls Button_Pressed.png",
+              "tiled": false,
+              "topMargin": 6,
+              "width": 192
+            }
+          }
+        }
+      ],
       "objectsFolderStructure": {
-        "folderName": "__ROOT"
+        "folderName": "__ROOT",
+        "children": [
+          {
+            "objectName": "HistoryText"
+          },
+          {
+            "objectName": "BtnBack"
+          },
+          {
+            "objectName": "BtnClear"
+          }
+        ]
       },
-      "events": [],
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ],
+          "actions": [],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::ForEachChildVariable",
+              "iterableVariableName": "History",
+              "valueIteratorVariableName": "value",
+              "keyIteratorVariableName": "label",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "HistoryText",
+                    "Text",
+                    "+",
+                    "NewLine()"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "HistoryText",
+                    "Text",
+                    "+",
+                    "value"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
+              },
+              "parameters": [
+                "BtnBack",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Main\"",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
+              },
+              "parameters": [
+                "BtnClear",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ClearVariableChildren"
+              },
+              "parameters": [
+                "History"
+              ]
+            },
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "HistoryText",
+                "Text",
+                "=",
+                "\"Vận tốc thuyền          Góc          Vận tốc nước          Thời gian         Qd theo X        Qd theo Y\"+\"\n      (m/s)                     (°)                 (m/s)                      (s)                      (m)                    (m)\""
+              ]
+            }
+          ]
+        }
+      ],
       "layers": [
         {
           "ambientLightColorB": 200,
@@ -3823,11 +5243,375 @@
           ]
         }
       ],
-      "behaviorsSharedData": []
+      "behaviorsSharedData": [
+        {
+          "name": "Effect",
+          "type": "EffectCapability::EffectBehavior"
+        },
+        {
+          "name": "Flippable",
+          "type": "FlippableCapability::FlippableBehavior"
+        },
+        {
+          "name": "Opacity",
+          "type": "OpacityCapability::OpacityBehavior"
+        },
+        {
+          "name": "Resizable",
+          "type": "ResizableCapability::ResizableBehavior"
+        },
+        {
+          "name": "Scale",
+          "type": "ScalableCapability::ScalableBehavior"
+        },
+        {
+          "name": "Text",
+          "type": "TextContainerCapability::TextContainerBehavior"
+        }
+      ]
     }
   ],
   "externalEvents": [],
   "eventsFunctionsExtensions": [
+    {
+      "author": "@arthuro555 and @Add00",
+      "category": "User interface",
+      "extensionNamespace": "",
+      "fullName": "Input Validation",
+      "helpPath": "",
+      "iconUrl": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAyMy4wLjMsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4NCjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iSWNvbnMiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4Ig0KCSB2aWV3Qm94PSIwIDAgMzIgMzIiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDMyIDMyOyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+DQo8c3R5bGUgdHlwZT0idGV4dC9jc3MiPg0KCS5zdDB7ZmlsbDpub25lO3N0cm9rZTojMDAwMDAwO3N0cm9rZS13aWR0aDoyO3N0cm9rZS1saW5lY2FwOnJvdW5kO3N0cm9rZS1saW5lam9pbjpyb3VuZDtzdHJva2UtbWl0ZXJsaW1pdDoxMDt9DQo8L3N0eWxlPg0KPHBhdGggY2xhc3M9InN0MCIgZD0iTTI2LDNIOUM3LjMsMyw2LDQuMyw2LDZ2MGMwLDEuNywxLjMsMywzLDNoMTd2MTAiLz4NCjxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik0xOCwyOUg5Yy0xLjcsMC0zLTEuMy0zLTN2MFY2Ii8+DQo8bGluZSBjbGFzcz0ic3QwIiB4MT0iMjYiIHkxPSI2IiB4Mj0iOSIgeTI9IjYiLz4NCjxsaW5lIGNsYXNzPSJzdDAiIHgxPSIxMCIgeTE9IjkiIHgyPSIxMCIgeTI9IjI5Ii8+DQo8cGF0aCBjbGFzcz0ic3QwIiBkPSJNMjUuNSwxOC41YzEuOSwxLjksMS45LDUuMSwwLDdjLTAuNSwwLjUtMSwwLjgtMS42LDEuMWMtMS44LDAuNy0zLjksMC40LTUuNC0xLjFjLTEuOS0xLjktMS45LTUuMSwwLTcNCglTMjMuNiwxNi42LDI1LjUsMTguNXoiLz4NCjxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik0yNi41LDI0bDMuOSwzLjZjMC44LDAuOCwwLjgsMiwwLDIuOGwwLDBjLTAuOCwwLjgtMiwwLjgtMi44LDBsLTMuNS0zLjUiLz4NCjwvc3ZnPg0K",
+      "name": "InputValidation",
+      "previewIconUrl": "https://resources.gdevelop-app.com/assets/Icons/Line Hero Pack/Master/SVG/Education and Learning/Education and Learning_education_book_library_search.svg",
+      "shortDescription": "Conditions and expressions to check, sanitize and manipulate strings.",
+      "version": "1.0.0",
+      "description": "Provides conditions to check if a string is a valid phone number, url, email, number, contains only letters. Also provides expressions to manipulate strings (count number of lines, remove new lines, remove non alphanumerical characters).",
+      "origin": {
+        "identifier": "InputValidation",
+        "name": "gdevelop-extension-store"
+      },
+      "tags": [
+        "sanitization",
+        "string",
+        "string manipulation",
+        "input validation"
+      ],
+      "authorIds": [
+        "ZgrsWuRTAkXgeuPV9bo0zuEcA2w1",
+        "AlZ3D1xkH0QDao7T37VZZUeYNpn1"
+      ],
+      "dependencies": [],
+      "globalVariables": [],
+      "sceneVariables": [],
+      "eventsFunctions": [
+        {
+          "description": "Check if the string is a valid phone number.",
+          "fullName": "Check if a string is a valid phone number",
+          "functionType": "Condition",
+          "name": "IsValidPhoneNumber",
+          "sentence": "_PARAM1_ is a valid phone number",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::JsCode",
+              "inlineCode": [
+                "const phone = eventsFunctionContext.getArgument(\"phone\");",
+                "const n = /[0-9 -()+]+$/;",
+                "",
+                "eventsFunctionContext.returnValue = n.test(phone);"
+              ],
+              "parameterObjects": "",
+              "useStrict": true,
+              "eventsSheetExpanded": false
+            }
+          ],
+          "parameters": [
+            {
+              "description": "Phone number",
+              "name": "phone",
+              "type": "string"
+            }
+          ],
+          "objectGroups": []
+        },
+        {
+          "description": "Check if the string is a valid URL.",
+          "fullName": "Check if a string is a valid URL",
+          "functionType": "Condition",
+          "name": "IsValidUrl",
+          "sentence": "_PARAM1_ is a valid URL",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::JsCode",
+              "inlineCode": [
+                "const url = eventsFunctionContext.getArgument(\"url\");",
+                "const n = /^(?:(?:https?|ftp):\\/\\/)?(?:(?!(?:10|127)(?:\\.\\d{1,3}){3})(?!(?:169\\.254|192\\.168)(?:\\.\\d{1,3}){2})(?!172\\.(?:1[6-9]|2\\d|3[0-1])(?:\\.\\d{1,3}){2})(?:[1-9]\\d?|1\\d\\d|2[01]\\d|22[0-3])(?:\\.(?:1?\\d{1,2}|2[0-4]\\d|25[0-5])){2}(?:\\.(?:[1-9]\\d?|1\\d\\d|2[0-4]\\d|25[0-4]))|(?:(?:[a-z\\u00a1-\\uffff0-9]-*)*[a-z\\u00a1-\\uffff0-9]+)(?:\\.(?:[a-z\\u00a1-\\uffff0-9]-*)*[a-z\\u00a1-\\uffff0-9]+)*(?:\\.(?:[a-z\\u00a1-\\uffff]{2,})))(?::\\d{2,5})?(?:\\/\\S*)?$/;",
+                "",
+                "eventsFunctionContext.returnValue = n.test(url);"
+              ],
+              "parameterObjects": "",
+              "useStrict": true,
+              "eventsSheetExpanded": false
+            }
+          ],
+          "parameters": [
+            {
+              "description": "URL",
+              "name": "url",
+              "type": "string"
+            }
+          ],
+          "objectGroups": []
+        },
+        {
+          "description": "Check if the string is a valid email.",
+          "fullName": "Check if a string is a valid email",
+          "functionType": "Condition",
+          "name": "IsValidEmail",
+          "sentence": "_PARAM1_ is a valid email",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::JsCode",
+              "inlineCode": [
+                "const email = eventsFunctionContext.getArgument(\"email\");",
+                "const n = /(([^<>()[\\]\\\\.,;:\\s@\\\"]+(\\.[^<>()[\\]\\\\.,;:\\s@\\\"]+)*)|(\\\".+\\\"))@((\\[[0-9]{1,3}\\.[0-9]{1,3}\\.[0-9]{1,3}\\.[0-9]{1,3}\\])|(([a-zA-Z\\-0-9]+\\.)+[a-zA-Z]{2,}))/;",
+                "",
+                "eventsFunctionContext.returnValue = n.test(email);"
+              ],
+              "parameterObjects": "",
+              "useStrict": true,
+              "eventsSheetExpanded": false
+            }
+          ],
+          "parameters": [
+            {
+              "description": "Email",
+              "name": "email",
+              "type": "string"
+            }
+          ],
+          "objectGroups": []
+        },
+        {
+          "description": "Check if the string represents a number (potentially with a minus sign and potentially with a decimal point).",
+          "fullName": "Check if a string represents a number",
+          "functionType": "Condition",
+          "name": "IsValidNumber",
+          "sentence": "_PARAM1_ represents a number",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::JsCode",
+              "inlineCode": [
+                "const num = eventsFunctionContext.getArgument(\"num\");",
+                "const n = /^-?\\d+\\.?\\d*$/;",
+                "",
+                "eventsFunctionContext.returnValue = n.test(num);"
+              ],
+              "parameterObjects": "",
+              "useStrict": true,
+              "eventsSheetExpanded": false
+            }
+          ],
+          "parameters": [
+            {
+              "description": "Number",
+              "name": "num",
+              "type": "string"
+            }
+          ],
+          "objectGroups": []
+        },
+        {
+          "description": "Check if the string has only latin alphabet letters.",
+          "fullName": "Check if a string has only latin alphabet letters",
+          "functionType": "Condition",
+          "name": "IsOnlyLetters",
+          "sentence": "_PARAM1_ has only latin alphabet letters ",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::JsCode",
+              "inlineCode": [
+                "const lrt = eventsFunctionContext.getArgument(\"lrt\");",
+                "const n = /^[a-zA-Z\\s]*$/;",
+                "",
+                "eventsFunctionContext.returnValue = n.test(lrt);"
+              ],
+              "parameterObjects": "",
+              "useStrict": true,
+              "eventsSheetExpanded": false
+            }
+          ],
+          "parameters": [
+            {
+              "description": "Letters",
+              "name": "lrt",
+              "type": "string"
+            }
+          ],
+          "objectGroups": []
+        },
+        {
+          "description": "Returns the string without the first line.",
+          "fullName": "Remove the first line",
+          "functionType": "StringExpression",
+          "name": "RemoveFirstLine",
+          "sentence": "",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::JsCode",
+              "inlineCode": "eventsFunctionContext.returnValue = eventsFunctionContext.getArgument(\"text\").substring(eventsFunctionContext.getArgument(\"text\").indexOf(\"\\n\") + 1);",
+              "parameterObjects": "",
+              "useStrict": true,
+              "eventsSheetExpanded": false
+            }
+          ],
+          "expressionType": {
+            "type": "string"
+          },
+          "parameters": [
+            {
+              "description": "String to remove the first line from",
+              "name": "text",
+              "type": "string"
+            }
+          ],
+          "objectGroups": []
+        },
+        {
+          "description": "Count the number of lines in a string.",
+          "fullName": "Count lines",
+          "functionType": "Expression",
+          "name": "CountNewLines",
+          "sentence": "",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::JsCode",
+              "inlineCode": "eventsFunctionContext.returnValue = eventsFunctionContext.getArgument(\"text\").split(/\\r\\n|\\r|\\n/).length;",
+              "parameterObjects": "",
+              "useStrict": true,
+              "eventsSheetExpanded": true
+            }
+          ],
+          "expressionType": {
+            "type": "expression"
+          },
+          "parameters": [
+            {
+              "description": "The text to count lines from",
+              "name": "text",
+              "type": "string"
+            }
+          ],
+          "objectGroups": []
+        },
+        {
+          "description": "Replaces every new line character with a space.",
+          "fullName": "Replace new lines by a space",
+          "functionType": "StringExpression",
+          "name": "RemoveNewLines",
+          "sentence": "",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ModVarSceneTxt"
+                  },
+                  "parameters": [
+                    "__Sanitizer_tmpStr",
+                    "=",
+                    "GetArgumentAsString(\"text\")"
+                  ]
+                }
+              ]
+            },
+            {
+              "infiniteLoopWarning": true,
+              "type": "BuiltinCommonInstructions::While",
+              "whileConditions": [
+                {
+                  "type": {
+                    "value": "Egal"
+                  },
+                  "parameters": [
+                    "StrFind(VariableString(__Sanitizer_tmpStr), NewLine())",
+                    "!=",
+                    "-1"
+                  ]
+                }
+              ],
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ModVarSceneTxt"
+                  },
+                  "parameters": [
+                    "__Sanitizer_tmpStr",
+                    "=",
+                    "SubStr(VariableString(__Sanitizer_tmpStr), 0, StrFind(VariableString(__Sanitizer_tmpStr), NewLine())) + SubStr(VariableString(__Sanitizer_tmpStr), StrFind(VariableString(__Sanitizer_tmpStr), NewLine())+1, StrLength(VariableString(__Sanitizer_tmpStr)))"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetReturnString"
+                  },
+                  "parameters": [
+                    "VariableString(__Sanitizer_tmpStr)"
+                  ]
+                }
+              ]
+            }
+          ],
+          "expressionType": {
+            "type": "string"
+          },
+          "parameters": [
+            {
+              "description": "The text to remove new lines from",
+              "name": "text",
+              "type": "string"
+            }
+          ],
+          "objectGroups": []
+        },
+        {
+          "description": "Remove any non-numerical and non A-Z characters.",
+          "fullName": "Remove any non-numerical and non A-Z characters",
+          "functionType": "StringExpression",
+          "name": "ToAlphanumerical",
+          "sentence": "",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::JsCode",
+              "inlineCode": "eventsFunctionContext.returnValue = eventsFunctionContext.getArgument(\"text\").replace(/\\W/g, '');",
+              "parameterObjects": "",
+              "useStrict": true,
+              "eventsSheetExpanded": false
+            }
+          ],
+          "expressionType": {
+            "type": "string"
+          },
+          "parameters": [
+            {
+              "description": "The text to sanitize",
+              "name": "text",
+              "type": "string"
+            }
+          ],
+          "objectGroups": []
+        }
+      ],
+      "eventsBasedBehaviors": [],
+      "eventsBasedObjects": []
+    },
     {
       "author": "",
       "category": "User interface",
